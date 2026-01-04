@@ -1,5 +1,4 @@
 [build]
-  command = "npx pnpm install && npx pnpm run build"
   publish = ".next"
 
 [build.environment]
