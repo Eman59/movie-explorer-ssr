@@ -1,4 +1,4 @@
 import '@testing-library/jest-dom'
 
 // Set environment variables for tests
-process.env.TMDB_READ_ACCESS_TOKEN = 'test_token';
+process.env.TMDB_READ_ACCESS_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMTI4YmI5MjgwNmMwYmQzYTQyOGM2OGY2OTg1MmIyMCIsIm5iZiI6MTY0NjU4Njc2Mi44ODksInN1YiI6IjYyMjRlYjhhZTMyM2YzMDA2Y2M2OGU2ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.HKQzmSFRWiOTSV0P_ZnmmBUbf1lSBN7K0F0N-ButRPo';

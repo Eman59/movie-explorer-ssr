@@ -23,7 +23,7 @@ A Next.js application for exploring movies using The Movie Database (TMDB) API. 
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 24+ 
 - npm/yarn/pnpm
 - TMDB API account
 
