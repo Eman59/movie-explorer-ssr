@@ -1,6 +1,7 @@
+import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
-import MovieCard from '@/components/MovieCard';
-import { MovieSearchResult } from '@/types/tmdb';
+import MovieCard from '../src/components/MovieCard';
+import { MovieSearchResult } from '../src/types/tmdb';
 
 // Mock Next.js modules
 jest.mock('next/image', () => ({

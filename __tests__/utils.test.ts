@@ -1,5 +1,5 @@
-import { validateSearchQuery, validatePage, transformMovieForSearch } from '@/lib/utils';
-import { TMDBMovie } from '@/types/tmdb';
+import { validateSearchQuery, validatePage, transformMovieForSearch } from '../src/lib/utils';
+import { TMDBMovie } from '../src/types/tmdb';
 
 // Mock the buildImageUrl function
 jest.mock('@/lib/tmdb', () => ({

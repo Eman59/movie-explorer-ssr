@@ -1,4 +1,4 @@
-import { validateSearchQuery, validatePage } from '@/lib/utils';
+import { validateSearchQuery, validatePage } from '../src/lib/utils';
 
 describe('API Validation', () => {
   describe('Search Query Validation', () => {
